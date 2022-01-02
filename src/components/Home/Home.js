@@ -13,7 +13,7 @@ const Home =()=>{
 		
 			<div className="home-msg tracked-mega">
 				<h1 className="washed-red">CLICK ONLINE INVESTMENT</h1>
-				<h3>Smart investment the name of trust</h3>
+				<h3>Click investment the name of trust</h3>
              
             </div>	
 		</div>

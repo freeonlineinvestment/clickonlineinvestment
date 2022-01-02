@@ -74,7 +74,6 @@ const Footer =()=>{
 
 			<div className='FooterSign tc f6 white'>
 				<p className='b font-set'>© 2022 Click Online Investment. All Rights Reserved.</p>
-				<p className='tracked-mega yellow hover-orange pointer'>Developed by Malik Wajid</p>
 			</div>
 
 		</div>
