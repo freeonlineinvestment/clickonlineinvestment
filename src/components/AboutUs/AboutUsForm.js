@@ -100,7 +100,7 @@ import CloseX from './pics/x.png';
 				<div className="field" tabindex="3">
 					<select className="fieldinput" name="pkg" id="pkg" onChange={ ( event ) => { setPkg( event.target.value ); } }>
 						<option value=""></option>
-						<option value="5000 invest Get 7500 in 6 days">5000 invest Get 3000 in 6 days</option>
+						<option value="5000 invest Get 7500 in 6 days">5000 invest Get 7500 in 6 days</option>
 						<option value="10000 invest Get 15000 in 6 days">10000 invest Get 15000 in 6 days</option>
 						<option value="20000 invest Get 30000 in 6 days">20000 invest Get 30000 in 6 days</option>
 						<option value="30000 invest Get 45000 in 6 days">30000 invest Get 45000 in 6 days</option>
